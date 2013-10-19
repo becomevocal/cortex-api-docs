@@ -34,11 +34,6 @@ Authentication
 - `consumer` access to most GET endpoints
 
 
-Specifications
---------------
-
-- testing
-
 Response Object
 ---------------
 
