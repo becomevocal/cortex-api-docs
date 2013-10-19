@@ -1,6 +1,6 @@
 CORTEX API OVERVIEW
 ===================
-*Sample of our under-development API Docs for the Online Markdown Editor*
+
 
 Documentation
 -------------
